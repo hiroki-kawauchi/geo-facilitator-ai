@@ -1,0 +1,1503 @@
+[
+  {
+    "from": [
+      139.7583444,
+      35.6948335,
+      0
+    ],
+    "to": [
+      139.7583184,
+      35.6949387,
+      0
+    ],
+    "length": 11.931,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7583444,
+      35.6948335,
+      0
+    ],
+    "to": [
+      139.7584045,
+      35.6945861,
+      0
+    ],
+    "length": 28.04,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.757946,
+      35.6964993,
+      0
+    ],
+    "to": [
+      139.7577521,
+      35.6968447,
+      0
+    ],
+    "length": 42.21,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.757946,
+      35.6964993,
+      0
+    ],
+    "to": [
+      139.7580367,
+      35.6962618,
+      0
+    ],
+    "length": 27.65,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7582975,
+      35.6950477,
+      0
+    ],
+    "to": [
+      139.7583184,
+      35.6949387,
+      0
+    ],
+    "length": 12.266,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7582975,
+      35.6950477,
+      0
+    ],
+    "to": [
+      139.7582432,
+      35.6953139,
+      0
+    ],
+    "length": 30.003,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7588247,
+      35.6902926,
+      0
+    ],
+    "to": [
+      139.7588427,
+      35.6904362,
+      0
+    ],
+    "length": 16.05,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7580367,
+      35.6962618,
+      0
+    ],
+    "to": [
+      139.757946,
+      35.6964993,
+      0
+    ],
+    "length": 27.65,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7580367,
+      35.6962618,
+      0
+    ],
+    "to": [
+      139.7581013,
+      35.6960108,
+      0
+    ],
+    "length": 28.531999999999996,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.758898,
+      35.6910017,
+      0
+    ],
+    "to": [
+      139.7588896,
+      35.6908991,
+      0
+    ],
+    "length": 11.434,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.758898,
+      35.6910017,
+      0
+    ],
+    "to": [
+      139.7589378,
+      35.691604,
+      0
+    ],
+    "length": 67.081,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7589378,
+      35.691604,
+      0
+    ],
+    "to": [
+      139.758898,
+      35.6910017,
+      0
+    ],
+    "length": 67.08099999999999,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7589378,
+      35.691604,
+      0
+    ],
+    "to": [
+      139.7587725,
+      35.6928355,
+      0
+    ],
+    "length": 138.136,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7560828,
+      35.6998198,
+      0
+    ],
+    "to": [
+      139.7558485,
+      35.7002601,
+      0
+    ],
+    "length": 53.334999999999994,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7560828,
+      35.6998198,
+      0
+    ],
+    "to": [
+      139.7562938,
+      35.6994358,
+      0
+    ],
+    "length": 46.757,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7555153,
+      35.7009318,
+      0
+    ],
+    "to": [
+      139.7551863,
+      35.7017162,
+      0
+    ],
+    "length": 93.41199999999999,
+    "grade": null,
+    "oneway": true,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "3"
+  },
+  {
+    "from": [
+      139.7555153,
+      35.7009318,
+      0
+    ],
+    "to": [
+      139.7556033,
+      35.7007501,
+      0
+    ],
+    "length": 21.713,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7575418,
+      35.6972133,
+      0
+    ],
+    "to": [
+      139.7575159,
+      35.6972592,
+      0
+    ],
+    "length": 5.614,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7575418,
+      35.6972133,
+      0
+    ],
+    "to": [
+      139.7577228,
+      35.6968951,
+      0
+    ],
+    "length": 38.975,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7583184,
+      35.6949387,
+      0
+    ],
+    "to": [
+      139.7582975,
+      35.6950477,
+      0
+    ],
+    "length": 12.266,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7583184,
+      35.6949387,
+      0
+    ],
+    "to": [
+      139.7583444,
+      35.6948335,
+      0
+    ],
+    "length": 11.931,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7572995,
+      35.6976612,
+      0
+    ],
+    "to": [
+      139.7573958,
+      35.6974825,
+      0
+    ],
+    "length": 21.69,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7572995,
+      35.6976612,
+      0
+    ],
+    "to": [
+      139.757182,
+      35.6978701,
+      0
+    ],
+    "length": 25.537000000000003,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7570096,
+      35.6981796,
+      0
+    ],
+    "to": [
+      139.7569959,
+      35.6982039,
+      0
+    ],
+    "length": 2.972,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7570096,
+      35.6981796,
+      0
+    ],
+    "to": [
+      139.757083,
+      35.6980457,
+      0
+    ],
+    "length": 16.298,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7574179,
+      35.697442,
+      0
+    ],
+    "to": [
+      139.7573958,
+      35.6974825,
+      0
+    ],
+    "length": 4.926,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7574179,
+      35.697442,
+      0
+    ],
+    "to": [
+      139.7575159,
+      35.6972592,
+      0
+    ],
+    "length": 22.169,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7587725,
+      35.6928355,
+      0
+    ],
+    "to": [
+      139.7589378,
+      35.691604,
+      0
+    ],
+    "length": 138.136,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7587725,
+      35.6928355,
+      0
+    ],
+    "to": [
+      139.7585587,
+      35.6938425,
+      0
+    ],
+    "length": 113.632,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7585587,
+      35.6938425,
+      0
+    ],
+    "to": [
+      139.7584121,
+      35.6945531,
+      0
+    ],
+    "length": 80.118,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7585587,
+      35.6938425,
+      0
+    ],
+    "to": [
+      139.7587725,
+      35.6928355,
+      0
+    ],
+    "length": 113.63199999999999,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7558485,
+      35.7002601,
+      0
+    ],
+    "to": [
+      139.755727,
+      35.7005047,
+      0
+    ],
+    "length": 29.328,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7558485,
+      35.7002601,
+      0
+    ],
+    "to": [
+      139.7560828,
+      35.6998198,
+      0
+    ],
+    "length": 53.334999999999994,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7588824,
+      35.6908277,
+      0
+    ],
+    "to": [
+      139.7588896,
+      35.6908991,
+      0
+    ],
+    "length": 7.966,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7588824,
+      35.6908277,
+      0
+    ],
+    "to": [
+      139.7588427,
+      35.6904362,
+      0
+    ],
+    "length": 43.681,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7584121,
+      35.6945531,
+      0
+    ],
+    "to": [
+      139.7584045,
+      35.6945861,
+      0
+    ],
+    "length": 3.733,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7584121,
+      35.6945531,
+      0
+    ],
+    "to": [
+      139.7585587,
+      35.6938425,
+      0
+    ],
+    "length": 80.11800000000001,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7588427,
+      35.6904362,
+      0
+    ],
+    "to": [
+      139.7588247,
+      35.6902926,
+      0
+    ],
+    "length": 16.05,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7588427,
+      35.6904362,
+      0
+    ],
+    "to": [
+      139.7588824,
+      35.6908277,
+      0
+    ],
+    "length": 43.681,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7567968,
+      35.6985454,
+      0
+    ],
+    "to": [
+      139.7569266,
+      35.6983223,
+      0
+    ],
+    "length": 27.438,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7567968,
+      35.6985454,
+      0
+    ],
+    "to": [
+      139.7564731,
+      35.6991268,
+      0
+    ],
+    "length": 70.95,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7554388,
+      35.7013453,
+      0
+    ],
+    "to": [
+      139.7555153,
+      35.7009318,
+      0
+    ],
+    "length": 47.233000000000004,
+    "grade": null,
+    "oneway": true,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": null,
+    "lanes": "4"
+  },
+  {
+    "from": [
+      139.7569266,
+      35.6983223,
+      0
+    ],
+    "to": [
+      139.7569959,
+      35.6982039,
+      0
+    ],
+    "length": 14.577,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7569266,
+      35.6983223,
+      0
+    ],
+    "to": [
+      139.7567968,
+      35.6985454,
+      0
+    ],
+    "length": 27.438,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7581013,
+      35.6960108,
+      0
+    ],
+    "to": [
+      139.7581241,
+      35.695905,
+      0
+    ],
+    "length": 11.943,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7581013,
+      35.6960108,
+      0
+    ],
+    "to": [
+      139.7580367,
+      35.6962618,
+      0
+    ],
+    "length": 28.531999999999996,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.757083,
+      35.6980457,
+      0
+    ],
+    "to": [
+      139.7570096,
+      35.6981796,
+      0
+    ],
+    "length": 16.298,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.757083,
+      35.6980457,
+      0
+    ],
+    "to": [
+      139.757182,
+      35.6978701,
+      0
+    ],
+    "length": 21.475,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7569959,
+      35.6982039,
+      0
+    ],
+    "to": [
+      139.7569266,
+      35.6983223,
+      0
+    ],
+    "length": 14.577,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7569959,
+      35.6982039,
+      0
+    ],
+    "to": [
+      139.7570096,
+      35.6981796,
+      0
+    ],
+    "length": 2.972,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7584045,
+      35.6945861,
+      0
+    ],
+    "to": [
+      139.7584121,
+      35.6945531,
+      0
+    ],
+    "length": 3.733,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7584045,
+      35.6945861,
+      0
+    ],
+    "to": [
+      139.7583444,
+      35.6948335,
+      0
+    ],
+    "length": 28.04,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.755444,
+      35.7016622,
+      0
+    ],
+    "to": [
+      139.7554388,
+      35.7013453,
+      0
+    ],
+    "length": 35.271,
+    "grade": null,
+    "oneway": true,
+    "highway": "primary_link",
+    "name": "白山通り",
+    "maxspeed": null,
+    "lanes": "2"
+  },
+  {
+    "from": [
+      139.7556033,
+      35.7007501,
+      0
+    ],
+    "to": [
+      139.755727,
+      35.7005047,
+      0
+    ],
+    "length": 29.485,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7556033,
+      35.7007501,
+      0
+    ],
+    "to": [
+      139.7555153,
+      35.7009318,
+      0
+    ],
+    "length": 21.713,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.755727,
+      35.7005047,
+      0
+    ],
+    "to": [
+      139.7556033,
+      35.7007501,
+      0
+    ],
+    "length": 29.485,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.755727,
+      35.7005047,
+      0
+    ],
+    "to": [
+      139.7558485,
+      35.7002601,
+      0
+    ],
+    "length": 29.328,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.757182,
+      35.6978701,
+      0
+    ],
+    "to": [
+      139.757083,
+      35.6980457,
+      0
+    ],
+    "length": 21.475,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.757182,
+      35.6978701,
+      0
+    ],
+    "to": [
+      139.7572995,
+      35.6976612,
+      0
+    ],
+    "length": 25.537000000000003,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7564731,
+      35.6991268,
+      0
+    ],
+    "to": [
+      139.7562938,
+      35.6994358,
+      0
+    ],
+    "length": 37.983,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7564731,
+      35.6991268,
+      0
+    ],
+    "to": [
+      139.7567968,
+      35.6985454,
+      0
+    ],
+    "length": 70.95,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7553457,
+      35.7016822,
+      0
+    ],
+    "to": [
+      139.7554388,
+      35.7013453,
+      0
+    ],
+    "length": 38.598,
+    "grade": null,
+    "oneway": true,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": null,
+    "lanes": "2"
+  },
+  {
+    "from": [
+      139.7581241,
+      35.695905,
+      0
+    ],
+    "to": [
+      139.7581013,
+      35.6960108,
+      0
+    ],
+    "length": 11.943,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7581241,
+      35.695905,
+      0
+    ],
+    "to": [
+      139.7582432,
+      35.6953139,
+      0
+    ],
+    "length": 66.616,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7562938,
+      35.6994358,
+      0
+    ],
+    "to": [
+      139.7560828,
+      35.6998198,
+      0
+    ],
+    "length": 46.757,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7562938,
+      35.6994358,
+      0
+    ],
+    "to": [
+      139.7564731,
+      35.6991268,
+      0
+    ],
+    "length": 37.983,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7573958,
+      35.6974825,
+      0
+    ],
+    "to": [
+      139.7572995,
+      35.6976612,
+      0
+    ],
+    "length": 21.69,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7573958,
+      35.6974825,
+      0
+    ],
+    "to": [
+      139.7574179,
+      35.697442,
+      0
+    ],
+    "length": 4.926,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7577521,
+      35.6968447,
+      0
+    ],
+    "to": [
+      139.7577228,
+      35.6968951,
+      0
+    ],
+    "length": 6.197,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7577521,
+      35.6968447,
+      0
+    ],
+    "to": [
+      139.757946,
+      35.6964993,
+      0
+    ],
+    "length": 42.21,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7575159,
+      35.6972592,
+      0
+    ],
+    "to": [
+      139.7574179,
+      35.697442,
+      0
+    ],
+    "length": 22.169,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7575159,
+      35.6972592,
+      0
+    ],
+    "to": [
+      139.7575418,
+      35.6972133,
+      0
+    ],
+    "length": 5.614,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7588896,
+      35.6908991,
+      0
+    ],
+    "to": [
+      139.758898,
+      35.6910017,
+      0
+    ],
+    "length": 11.434,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7588896,
+      35.6908991,
+      0
+    ],
+    "to": [
+      139.7588824,
+      35.6908277,
+      0
+    ],
+    "length": 7.966,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7582432,
+      35.6953139,
+      0
+    ],
+    "to": [
+      139.7581241,
+      35.695905,
+      0
+    ],
+    "length": 66.616,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7582432,
+      35.6953139,
+      0
+    ],
+    "to": [
+      139.7582975,
+      35.6950477,
+      0
+    ],
+    "length": 30.003,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7577228,
+      35.6968951,
+      0
+    ],
+    "to": [
+      139.7575418,
+      35.6972133,
+      0
+    ],
+    "length": 38.975,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7577228,
+      35.6968951,
+      0
+    ],
+    "to": [
+      139.7577521,
+      35.6968447,
+      0
+    ],
+    "length": 6.197,
+    "grade": null,
+    "oneway": false,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "6"
+  },
+  {
+    "from": [
+      139.7551863,
+      35.7017162,
+      0
+    ],
+    "to": [
+      139.7551936,
+      35.7018717,
+      0
+    ],
+    "length": 17.303,
+    "grade": null,
+    "oneway": true,
+    "highway": "primary",
+    "name": "白山通り",
+    "maxspeed": "50",
+    "lanes": "3"
+  }
+]

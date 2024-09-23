@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "buildingId": "13116-bldg-54083", "measuredHeight": 239.2, "name": "サンシャインシティ", "type": "Building", "longitude": 139.71816590508192, "latitude": 35.729404336663237 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 139.718638, 35.72939 ], [ 139.71797, 35.729755 ], [ 139.717694, 35.729418 ], [ 139.718362, 35.729054 ], [ 139.718638, 35.72939 ] ] ] } }
+]
+}

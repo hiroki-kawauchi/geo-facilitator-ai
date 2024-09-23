@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "deckgl-env"
+version = "0.1.0"
+description = ""
+authors = ["hiroki-kawauchi <k.hiroki.09095458298.0301@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+osmnx = "^1.9.4"
+plateaukit = {extras = ["all"], version = "^0.17.2"}
+geopandas = "0.14.0"
+langchain = "^0.2.16"
+langchain-openai = "^0.1.23"
+pydeck = "0.8.0"
+pandas = "^2.2.2"
+python-dotenv = "^1.0.1"
+flask = "^3.0.3"
+flask-cors = "^5.0.0"
+scikit-learn = "^1.5.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
