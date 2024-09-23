@@ -2,7 +2,7 @@
 name = "deckgl-env"
 version = "0.1.0"
 description = ""
-authors = ["hiroki-kawauchi <k.hiroki.09095458298.0301@gmail.com>"]
+authors = ["hiroki-kawauchi <>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
